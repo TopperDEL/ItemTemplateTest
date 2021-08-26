@@ -1,0 +1,4 @@
+﻿
+namespace ItemTemplateTest.Skia.Gtk
+{
+}
